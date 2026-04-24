@@ -250,13 +250,13 @@ window.publishedProjects = [
   storage: "project",
 },
 {
-  id: "mummy",
-  title: "mummy",
+  id: "joker",
+  title: "joker",
   description: "Saved in this browser for preview and portfolio review.",
-  type: "gif",
-  src: "./mummy.gif",
-  format: "GIF",
-  tags: ["Character", "Slot", "Unity", "VFX"],
+  type: "video",
+  src: "./Joker.mp4",
+  format: "MP4",
+  tags: ["Character", "Slot", "Unity"],
   storage: "project",
 },
 {
@@ -269,5 +269,14 @@ window.publishedProjects = [
   tags: ["Spine", "Slot", "Character"],
   storage: "project",
 },
-
+{
+  id: "mummy",
+  title: "mummy",
+  description: "Saved in this browser for preview and portfolio review.",
+  type: "gif",
+  src: "./mummy.gif",
+  format: "GIF",
+  tags: ["Character", "Slot", "Unity", "VFX"],
+  storage: "project",
+},
 ];
