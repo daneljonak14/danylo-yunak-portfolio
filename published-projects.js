@@ -260,16 +260,6 @@ window.publishedProjects = [
   storage: "project",
 },
 {
-  id: "joker",
-  title: "joker",
-  description: "Saved in this browser for preview and portfolio review.",
-  type: "gif",
-  src: ".joker.gif",
-  format: "GIF",
-  tags: ["Spine", "Slot", "Character"],
-  storage: "project",
-},
-{
   id: "mummy",
   title: "mummy",
   description: "Saved in this browser for preview and portfolio review.",
