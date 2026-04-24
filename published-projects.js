@@ -264,9 +264,10 @@ window.publishedProjects = [
   title: "Joker",
   description: "Saved in this browser for preview and portfolio review.",
   type: "gif",
-  src: "./Joker.gif",
+  src: ".Joker.gif",
   format: "GIF",
   tags: ["Spine", "Slot", "Character"],
   storage: "project",
 },
+
 ];
